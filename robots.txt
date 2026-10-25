@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hlaska18.github.io/Julie/sitemap.xml
